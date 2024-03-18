@@ -1,0 +1,7 @@
+.env
+api_key_try.txt
+db.sqlite3
+chatbot/__pycache__/**
+openaichatbot/__pycache__/**
+chatbot/migrations/__pycache__/**
+chatbot/migrations/**
